@@ -15,3 +15,7 @@ opt-level = 0
 
 [profile.release]
 opt-level = 3
+
+[features]
+default = []
+debug = []
